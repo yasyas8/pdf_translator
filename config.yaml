@@ -1,7 +1,6 @@
 translator:
-  type: google_translate #openai
-  openai_api_key: YOUR-KEY-GOES-HERE
-
+  type: openai #openai
+  openai_api_key: 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
 layout:
   type: 'dit'
   device: 'cuda'
